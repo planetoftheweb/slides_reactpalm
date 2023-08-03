@@ -1,8 +1,8 @@
 <!-- .slide: data-state="layout-title no-fragment"  -->
 
-# GitHub Copilot
+# React PALM
 
-<div class="btn btn-warning mt-3 ">raybo.org/slides_githubcopilot</div>
+<div class="btn btn-warning mt-3 ">raybo.org/slides_reactpalm</div>
 
 <p class="small mt-5">
   <span class="badge bg-dark me-1 ms-2">t</span> toolbar

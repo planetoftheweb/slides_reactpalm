@@ -6,7 +6,16 @@
     "title": "Slides" }
 ,{
     "filename": "01_01",
-    "title": "What is GitHub Copilot?" }
+    "title": "The PaLM2 API" }
+,{
+    "filename": "01_02",
+    "title": "PaLM 2 Playgrounds" }
+,{
+    "filename": "01_03",
+    "title": "Setting Up" }
+,{
+    "filename": "99_01",
+    "title": "Next Steps" }
 ,{
     "filename": "demo",
     "title": "Opinionated Reveal.js" }
@@ -14,15 +23,6 @@
     "filename": "slides",
     "title": "" }
 ,{
-    "filename": "01_02",
-    "title": "Getting Copilot" }
-,{
-    "filename": "01_03",
-    "title": "Project Files" }
-,{
     "filename": "01_04",
-    "title": "Copilot Autocomplete" }
-,{
-    "filename": "02_01",
-    "title": "Next Steps" }
+    "title": "Using NodeJS" }
 ]
